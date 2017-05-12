@@ -1,0 +1,21 @@
+{
+  "name": "email-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.0",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "dnscache": "^1.0.1",
+    "express": "^4.15.2",
+    "lodash": "^4.17.4"
+  }
+}
