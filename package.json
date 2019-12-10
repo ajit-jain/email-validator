@@ -1,5 +1,5 @@
 {
-  "name": "email-checker",
+  "name": "email-verifier",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
