@@ -1,13 +1,13 @@
 {
   "name": "email-verifier",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Ajit jain",
   "license": "ISC",
   "dependencies": {
     "async": "^2.4.0",
