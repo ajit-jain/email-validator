@@ -1,5 +1,5 @@
 {
-  "name": "email-verifier",
+  "name": "email_verifier",
   "version": "0.1.0",
   "description": "",
   "main": "./lib/email-verifier.js",
